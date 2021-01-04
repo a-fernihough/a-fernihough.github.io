@@ -1,0 +1,36 @@
+---
+title: "Alan Fernihough"
+description: |
+  Senior Lecturer, Queen's University Belfast
+
+author:
+  - name: Alan Fernihough 
+
+
+
+#bibliography: spatial_se.bib
+
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+#    toc: true
+    toc_depth: 1
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Introduction
+
+Hello and welcome to my Github page! My 2021 new year's resolution was to post as much code and data as possible. Let's see how this goes!
+
+
+
+
+
+
+
+
